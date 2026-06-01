@@ -10,7 +10,7 @@ Building industry-grade projects at the intersection of AI, data engineering, an
 I'm a CS student at IIT Madras with a strong self-taught foundation in Python, Java, and machine learning. I care about building things that are both technically solid and actually useful — not just assignments, but projects that could survive in the real world.
 
 Currently working toward ML engineering and data science roles, with hands-on experience across the full pipeline: raw data → cleaning → feature engineering → model training → evaluation.
-
+## [Portfolio](https://zishan-portfolio-eight.vercel.app/)
 ---
 
 ## Projects
