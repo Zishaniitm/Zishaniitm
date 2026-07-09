@@ -16,7 +16,7 @@
 
 <a href="https://zishan-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6D28D9?style=flat-square&logo=vercel&logoColor=white&labelColor=0d0d17"/></a>
 <a href="https://www.linkedin.com/in/zishan-ahmad-155b24239/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d17"/></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d17"/></a>
+<a href="mailto:ahmadzishan1713@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d17"/></a>
 <a href="https://github.com/Zishaniitm"><img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0d0d17"/></a>
 
 <br/><br/>
@@ -226,7 +226,7 @@ Contributing to applied machine learning projects spanning classification and re
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Zishaniitm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d17&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9d9&ring_color=6D28D9" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=Zishaniitm&theme=tokyonight&hide_border=true&background=0D0D17&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Zishaniitm&theme=tokyonight&hide_border=true&background=0D0D17&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zishaniitm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d17&title_color=A78BFA&text_color=c9c9d9&langs_count=8" width="60%"/>
 
@@ -234,23 +234,15 @@ Contributing to applied machine learning projects spanning classification and re
 
 ---
 
-## 🏅 GitHub Trophies
+## 📈 Profile Metrics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zishaniitm&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7"/>
+<img src="https://raw.githubusercontent.com/Zishaniitm/Zishaniitm/main/metrics.svg" width="100%"/>
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zishaniitm&theme=tokyo-night&hide_border=true&bg_color=0D0D17&color=A78BFA&line=8B5CF6&point=ffffff&area=true&area_color=6D28D9"/>
-
-</div>
+> Self-hosted via [`lowlighter/metrics`](https://github.com/lowlighter/metrics) — regenerated daily by GitHub Actions in your own profile repo, so it never breaks from third-party rate limits. Covers activity, top languages, achievements (trophy equivalent), coding habits, and contribution isocalendar in one image. Setup below.
 
 ---
 
@@ -261,6 +253,8 @@ Contributing to applied machine learning projects spanning classification and re
 <img src="https://raw.githubusercontent.com/Zishaniitm/Zishaniitm/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+
+> ⚠️ This image only renders once the snake GitHub Action (setup below) has run at least once in your `Zishaniitm/Zishaniitm` profile repo.
 
 ---
 
@@ -293,7 +287,7 @@ current_focus:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d17)](mailto:zishanahmad1713@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d17)](mailto:ahmadzishan1713@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d17)](https://www.linkedin.com/in/zishan-ahmad-155b24239/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d17)](https://github.com/Zishaniitm)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d17)](https://zishan-portfolio-eight.vercel.app/)
