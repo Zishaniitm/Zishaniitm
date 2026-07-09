@@ -1,0 +1,57 @@
+name: Generate Profile Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"    # regenerates once a day at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate metrics (dark theme)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+
+          # --- Visual theme ---
+          config_timezone: Asia/Kolkata
+          config_display: large
+          theme: github-dark
+          config_gemoji: img
+
+          # --- Activity plugin (replaces github-readme-activity-graph) ---
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_visibility: all
+
+          # --- Languages plugin ---
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+
+          # --- Achievements plugin (GitHub Trophies replacement) ---
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+
+          # --- Extra insight plugins ---
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_stars: yes
+          plugin_stars_limit: 4
