@@ -254,8 +254,6 @@ Contributing to applied machine learning projects spanning classification and re
 
 </div>
 
-> ⚠️ This image only renders once the snake GitHub Action (setup below) has run at least once in your `Zishaniitm/Zishaniitm` profile repo.
-
 ---
 
 ## 🎯 Current Focus
