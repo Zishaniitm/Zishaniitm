@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Zishan%20Ahmad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20IIT%20Madras%20%7C%20ML%20%26%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Zishan%20Ahmad&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=CS+Student+%40+IIT+Madras;Machine+Learning+%26+Data+Engineering;Full+Stack+%2B+ML+Systems;Building+Industry-Grade+Projects" alt="Typing SVG" />
