@@ -215,7 +215,6 @@ Contributing to applied machine learning projects spanning classification and re
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e)](https://auth.geeksforgeeks.org/user/Zishaniitm)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e)](https://www.hackerrank.com/Zishaniitm)
 
-*Replace handles above with your verified profile usernames if they differ from Zishaniitm.*
 
 </div>
 
@@ -242,7 +241,6 @@ Contributing to applied machine learning projects spanning classification and re
 
 </div>
 
-> Self-hosted via [`lowlighter/metrics`](https://github.com/lowlighter/metrics) — regenerated daily by GitHub Actions in your own profile repo, so it never breaks from third-party rate limits. Covers activity, top languages, achievements (trophy equivalent), coding habits, and contribution isocalendar in one image. Setup below.
 
 ---
 
