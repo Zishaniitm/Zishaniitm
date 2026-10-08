@@ -16,7 +16,7 @@
 
 <a href="https://zishann.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6D28D9?style=flat-square&logo=vercel&logoColor=white&labelColor=0d0d17"/></a>
 <a href="https://www.linkedin.com/in/zishan-ahmad-155b24239/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d17"/></a>
-<a href="mailto:admadzishan1713@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d17"/></a>
+<a href="mailto:zishan.ahmad.contact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d17"/></a>
 <a href="https://github.com/Zishaniitm"><img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0d0d17"/></a>
 
 <br/><br/>
