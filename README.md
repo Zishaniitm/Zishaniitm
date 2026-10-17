@@ -3,14 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Zishan%20Ahmad&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=CS+Student+%40+IIT+Madras;Machine+Learning+%26+Data+Engineering;Full+Stack+%2B+ML+Systems;Building+Industry-Grade+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=780&lines=Data+Science+%40+IIT+Madras;Machine+Learning+%26+Full-Stack+Engineering;Explainable+ML+%2B+Production+Systems;Shipping+Real+Projects,+Not+Just+Assignments" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/IIT%20Madras-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/ML%20Intern-Codsoft-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Location-Prayagraj,%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/IIT%20Madras-Data%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/HackerRank-4%C3%97%20Certified-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Data%20Science%20Intern-CodSoft-8B5CF6?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Location-Prayagraj,%20India-A78BFA?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
 
 <br/><br/>
 
@@ -38,31 +39,33 @@
 ```yaml
 about_me:
   name: "Zishan Ahmad"
-  role: "Computer Science Student"
-  education: "IIT Madras — Computer Science"
-  current_role: "ML Engineering Intern @ Codsoft"
+  role: "Machine Learning & Full-Stack Engineer"
+
+  education:
+    - "IIT Madras — BS in Data Science & Programming (2025–)"
+    - "United Institute of Management (FUGS), Prayagraj — BCA (2024–)"
+
+  experience: "Data Science Intern @ CodSoft (May–June 2026)"
 
   philosophy: >
-    I have a strong self-taught foundation in Python, Java, and
-    machine learning. I care about building things that are both
-    technically solid and actually useful — not just assignments,
-    but projects that could survive in the real world. Currently
-    working toward ML engineering and data science roles, with
-    hands-on experience across the full pipeline: raw data →
-    cleaning → feature engineering → model training → evaluation.
+    I build systems end to end — from raw data and model training to
+    the production services that serve them. My work leans on
+    explainability (SHAP), honest evaluation, and engineering rigor:
+    every number I publish is one I can reproduce from an artifact.
 
   strengths:
-    - End-to-end machine learning pipelines, built independently
-    - Full-stack systems design (ML services + Spring Boot APIs + real-time data)
-    - Rigorous model evaluation (F1, ROC/AUC — not just accuracy)
-    - Clean, well-documented, reproducible engineering work
+    - End-to-end ML pipelines — cleaning, feature engineering, training, evaluation
+    - Full-stack product engineering — Next.js/React, Node/Express, PostgreSQL
+    - Explainable ML with SHAP/TreeSHAP for auditable, defensible decisions
+    - Production delivery — a live client site, not just notebooks
+    - Technical writing — 25 articles explaining ML, systems, and security
 
   open_to:
     - Machine Learning Engineer roles
-    - Data Scientist / Data Engineer roles
-    - Backend / Full Stack Developer roles
-    - AI/ML Research Internships
-    - Open Source contributions
+    - Data Scientist / Data Analyst roles
+    - Software Engineer / Full-Stack roles
+    - ML & AI research internships
+    - Open-source collaboration
 ```
 
 <br clear="right"/>
@@ -75,15 +78,15 @@ about_me:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,cpp,c&theme=dark"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=bootstrap,html,css,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=flask,spring,postgres,redis,kafka&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,supabase,redis&theme=dark"/>
 
 **ML / Data Science**
 
@@ -91,7 +94,7 @@ about_me:
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,postman,vscode&theme=dark"/>
 
 </div>
 
@@ -103,13 +106,13 @@ about_me:
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Supervised Learning** | ⭐⭐⭐⭐⭐ | Logistic Regression, Decision Tree, Random Forest, KNN, XGBoost |
-| **Model Evaluation** | ⭐⭐⭐⭐⭐ | Confusion matrix, precision/recall, F1-optimized tuning, ROC/AUC |
-| **Hyperparameter Tuning** | ⭐⭐⭐⭐☆ | `GridSearchCV`, cross-validation, F1-based optimization over raw accuracy |
-| **Feature Engineering** | ⭐⭐⭐⭐⭐ | Group-level imputation, derived features, band/bucket encoding |
-| **Model Explainability** | ⭐⭐⭐☆☆ | SHAP for interpretable credit-risk and fraud-detection models |
-| **Anomaly Detection** | ⭐⭐⭐☆☆ | Isolation Forest for financial fraud detection |
-| **Data Engineering** | ⭐⭐⭐⭐☆ | Pandas/NumPy pipelines, PostgreSQL star schema, Kafka streaming |
+| **Supervised Learning** | ⭐⭐⭐⭐⭐ | Logistic Regression, Decision Trees, Random Forest, KNN, XGBoost |
+| **Model Evaluation** | ⭐⭐⭐⭐⭐ | Confusion matrix, precision/recall, F1 tuning, ROC/AUC, R²/RMSE/MAE |
+| **Feature Engineering** | ⭐⭐⭐⭐⭐ | Group-level imputation, derived features, band/bucket encoding, mean-encoding |
+| **Model Explainability** | ⭐⭐⭐⭐☆ | SHAP / TreeSHAP per-decision attributions on tree ensembles |
+| **Imbalanced Learning** | ⭐⭐⭐⭐☆ | SMOTE oversampling + decision-threshold tuning |
+| **Data Engineering** | ⭐⭐⭐⭐☆ | Pandas/NumPy pipelines, PostgreSQL schema design, transactional bulk operations |
+| **ML Serving** | ⭐⭐⭐⭐☆ | FastAPI inference services, model registries, artifact validation |
 
 </div>
 
@@ -118,58 +121,131 @@ about_me:
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🚢 Titanic Survival Prediction — End-to-End Binary Classification</b></summary>
+<summary><b>🌾 Delight Agro Traders — Production Client Website <i>(Live)</i></b></summary>
 <br/>
 
-Built a binary classification model on the classic Titanic dataset, covering the complete ML pipeline independently — from raw data to a tuned, evaluated model.
+A real, live storefront built solo for an agri-input retailer in Khaga, Fatehpur — designed around how the business actually sells: conversational, WhatsApp-first, and fast on rural connections.
 
 | Category | Detail |
 |---|---|
-| **Stack** | Python, Pandas, Scikit-learn, Matplotlib, Seaborn |
-| **Scale** | 891-passenger dataset, 6 engineered features |
-| **Performance** | Random Forest — 84% accuracy · AUC 0.87 |
-| **Security** | Fully local, reproducible training pipeline |
-| **Impact** | Independently engineered, tuned, and evaluated across 4 algorithms |
-| **Repository** | [Codsoft-Internship-Projects](https://github.com/Zishaniitm/Codsoft-Internship-Projects) |
+| **Stack** | Next.js (App Router), TypeScript, Supabase, Vercel |
+| **Status** | Live in production |
+| **Performance** | Static prerendering, image optimization, SEO pass, loading/skeleton states |
+| **Impact** | Bilingual (English/Hindi) catalog, per-product WhatsApp inquiry flow, seasonal crop-advisory hub |
+| **Live** | [delightagrotraders-neon.vercel.app](https://delightagrotraders-neon.vercel.app) |
+| **Repository** | [delight-agro-v2](https://github.com/Zishaniitm/delight-agro-v2) |
 
-**Pipeline breakdown:**
-- Handled missing data with group-level median imputation (`Pclass` + `Sex`)
-- Engineered 6 new features: `Title`, `FamilySize`, `IsAlone`, `AgeGroup`, `HasCabin`, `FareBand`
-- Trained and compared 4 algorithms: Logistic Regression, Decision Tree, Random Forest, KNN
-- Tuned hyperparameters with `GridSearchCV`, optimized for F1 rather than raw accuracy
-- Evaluated with confusion matrix, precision, recall, F1, and ROC/AUC
+**Highlights:**
+- WhatsApp-first, checkout-free inquiry flow with per-product pre-filled messages
+- Bilingual storefront (English/Hindi toggle) across seeds, nursery equipment, mulching, fertilizer
+- Seasonal Knowledge Hub with region-specific MSP data sourced to ICAR / UP Agriculture Dept
+- Crop Health Centre, gallery, and "Get Directions" links for a rural customer base
 
 </details>
 
 <details open>
-<summary><b>💳 CreditSense AI — Credit Risk & Fraud Detection Platform <i>(In Progress)</i></b></summary>
+<summary><b>🎓 UniCampus ERP — Full-Stack College ERP <i>(In Active Development)</i></b></summary>
 <br/>
 
-End-to-end credit risk and financial fraud detection platform targeting Indian banks and NBFCs. A collaborative final-year project designed to be resume-worthy and industry-scale, combining ML services with a production-style backend architecture.
+A ground-up replacement for my college's third-party ERP, scoped against a formal 15-section SRS across 11 modules on a 32-week delivery timeline. Built solo, with production-grade architecture rather than assignment-grade shortcuts.
 
 | Category | Detail |
 |---|---|
-| **Stack** | Python, Flask, Java Spring Boot, PostgreSQL, Kafka, Redis, Bootstrap, Chart.js |
-| **Scale** | Multi-service architecture — ML layer + API gateway + streaming layer |
-| **Performance** | Real-time fraud scoring via Kafka + Redis event pipeline |
-| **Security** | API gateway-based access control (Spring Boot), isolated ML microservices |
-| **Impact** | Designed for realistic bank/NBFC-scale credit risk workflows |
-| **Repository** | *In progress — link to be added on release* |
+| **Stack** | Node.js, Express, TypeScript, React 18, Vite, Tailwind CSS, PostgreSQL 14, Drizzle ORM, Redis, BullMQ |
+| **Scope** | 11 modules · 15-section SRS · 32-week roadmap |
+| **Security** | RBAC at two layers (API middleware + PostgreSQL row-level security), JWT in HttpOnly cookies, bcryptjs, account lockout |
+| **Reliability** | All-or-nothing bulk transactions with per-row error reports, structured error codes (`ERR-MODULE-NNN`), Winston logging |
+| **Modules** | Auth, Students, Admissions, Timetable, Notices, Attendance |
 
-**Architecture breakdown:**
-- **ML services:** XGBoost for credit risk scoring, Isolation Forest for anomaly/fraud detection, SHAP for model explainability — served via Python/Flask
-- **API gateway:** Java Spring Boot, handling routing and business logic
-- **Database:** PostgreSQL with a star schema designed for analytical + transactional queries
-- **Real-time streaming:** Apache Kafka + Redis for low-latency event processing
-- **Frontend:** Bootstrap + Chart.js dashboards for risk visualization
+**Architecture highlights:**
+- Dual-layer access control — API middleware **and** database row-level security
+- Bulk Excel admissions import with transactional rollback and detailed per-row failures
+- Background job processing on BullMQ + Redis; ExcelJS exports; Razorpay integration
+- Zod-validated environment config, global error handler, UUID on every response
 
 </details>
 
-</br>
+<details open>
+<summary><b>💳 CreditSense AI — Explainable Credit-Risk Scoring</b></summary>
+<br/>
+
+Credit models are black boxes — a score comes out with no defensible reason. CreditSense pairs gradient-boosted scoring with per-decision explanations so every risk score arrives with the factors that drove it.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Python, XGBoost, SHAP (TreeSHAP), FastAPI, PostgreSQL |
+| **Scale** | Versioned model + scaler + label encoders + pre-fitted SHAP explainer |
+| **Explainability** | Per-prediction attributions logged alongside every score |
+| **Serving** | FastAPI inference layer with startup contract checks that refuse broken artifacts |
+| **Impact** | Auditable, defensible credit decisions instead of opaque scores |
+| **Repository** | [creditsense-ai](https://github.com/Zishaniitm/creditsense-ai) |
+
+**Architecture highlights:**
+- XGBoost classifier with SHAP/TreeSHAP exact attribution on tree ensembles
+- Every score persisted with its driving factors for audit and review
+- Artifact correctness verified by recomputing predictions outside the service
+
+</details>
+
+<details>
+<summary><b>📊 CodSoft ML Portfolio — Five End-to-End Models</b></summary>
+<br/>
+
+Five classification and regression projects built during my Data Science internship, each covering the full pipeline from raw data to evaluated model.
+
+| Project | Method | Result |
+|---|---|---|
+| **Sales Prediction** | Multiple Linear Regression (Advertising, 200 rows) | **R² 0.897 · RMSE 1.71 · MAE 1.22** ✅ verified |
+| **Iris Classification** | SVM (RBF kernel) + StandardScaler | **96.67% test accuracy** · CV 96.67% ± 1.67% ✅ verified |
+| **Credit Card Fraud** | SMOTE + threshold tuning (492 frauds / 284,807 txns) | Imbalanced pipeline, 30 PCA features |
+| **Titanic Survival** | Random Forest + 18 engineered features | 9 raw inputs → title, family size, fare bands |
+| **Movie Rating** | Regression with categorical / mean encoding | IMDb Indian cinema dataset |
+
+**Repository:** [Codsoft-Internship-Projects](https://github.com/Zishaniitm/Codsoft-Internship-Projects)
+
+</details>
+
+<details>
+<summary><b>🗓️ College Timetable Management System</b></summary>
+<br/>
+
+A desktop timetable-management application built for academic use, with relational persistence and authenticated access.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Java, MySQL, Google OAuth |
+| **Features** | Create/manage college timetables, relational storage, Google sign-in gating |
+
+</details>
+
+<details>
+<summary><b>🌐 Portfolio Website</b></summary>
+<br/>
+
+A production Next.js site that doubles as an engineering showcase — hand-rolled theme system, advanced motion, and a full technical-writing platform.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Next.js 15 (App Router), TypeScript, Tailwind CSS v4, Framer Motion, GSAP, Lenis, R3F |
+| **Scale** | 15+ statically prerendered routes |
+| **Features** | Command palette, live GitHub contribution graph, Cal.com booking, guestbook, MDX blog |
+| **Quality** | SEO metadata, custom 404, reduced-motion accessibility guards |
+| **Live** | [zishann.vercel.app](https://zishann.vercel.app) |
+
+</details>
+
+---
+
+## 🏅 Certifications
 
 <div align="center">
 
-*More projects — including Iris Flower Classification (96.67% accuracy, SVM/RBF) and a Movie Rating Prediction regression model (R² ≈ 0.80) — are documented in the [Codsoft-Internship-Projects](https://github.com/Zishaniitm/Codsoft-Internship-Projects) repository.*
+| Certification | Type | Issued | Credential |
+|---|---|:---:|---|
+| **Software Engineer (Intern)** | Role Certification | Sep 2026 | [69D7D10D58B4](https://www.hackerrank.com/certificates/69d7d10d58b4) |
+| **SQL (Advanced)** | Skill Certification | Sep 2026 | [199775EE668E](https://www.hackerrank.com/certificates/199775ee668e) |
+| **Java (Basic)** | Skill Certification | Sep 2026 | [4D4EFDB4EBF8](https://www.hackerrank.com/certificates/4d4efdb4ebf8) |
+| **React (Basic)** | Skill Certification | Sep 2026 | [38E79F1DB03F](https://www.hackerrank.com/certificates/38e79f1db03f) |
 
 </div>
 
@@ -177,17 +253,49 @@ End-to-end credit risk and financial fraud detection platform targeting Indian b
 
 ## 💼 Experience
 
-### Machine Learning Intern
-**Codsoft** · Remote
+### Data Science Intern
+**CodSoft** · Remote · May – June 2026
 
-Contributing to applied machine learning projects spanning classification and regression tasks, with full ownership from data acquisition through model evaluation and documentation.
+Built five end-to-end machine-learning projects spanning classification and regression, owning the full workflow from data acquisition through evaluation and documentation.
 
-- Designed and implemented complete ML pipelines: data cleaning, EDA, feature engineering, model training, and evaluation
-- Built and tuned classification models with `GridSearchCV`, optimizing for F1 rather than raw accuracy
-- Authored structured, recruiter-readable project documentation across a public GitHub portfolio repository
-- Evaluated models using confusion matrix, precision, recall, F1, and ROC/AUC analysis
+- Designed complete ML pipelines: data cleaning, EDA, feature engineering, model training, and evaluation
+- Delivered a regression model at **R² 0.897 / RMSE 1.71** and an SVM classifier at **96.67%** test accuracy — both artifact-verified
+- Handled extreme class imbalance with SMOTE and decision-threshold tuning on a 284,807-transaction fraud dataset
+- Authored structured, recruiter-readable documentation across a public GitHub portfolio repository
+- Evaluated models with confusion matrix, precision, recall, F1, and ROC/AUC
 
-`Python` `Scikit-learn` `Pandas` `NumPy` `GridSearchCV` `Data Visualization` `Git/GitHub`
+`Python` `Scikit-learn` `Pandas` `NumPy` `SMOTE` `SHAP` `Git/GitHub`
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Institution | Program | Period |
+|---|---|:---:|
+| **IIT Madras** | BS in Data Science & Programming | 2025 – Present |
+| **United Institute of Management (FUGS), Prayagraj** | BCA — Bachelor of Computer Applications | 2024 – Present |
+
+</div>
+
+---
+
+## ✍️ Technical Writing
+
+25 articles on the concepts behind the work — not tutorials, but explanations I wrote to understand the systems I build.
+
+<div align="center">
+
+| Area | Topics |
+|---|---|
+| **Machine Learning** | Explainability · data leakage · embeddings · the ML data pipeline · correlation vs. causation |
+| **Deep Learning** | Attention & transformers · convolutional networks |
+| **Computer Vision** | CV foundations · classification vs. detection vs. segmentation · image processing |
+| **Systems** | System design at scale · compilers · what happens when you type a URL · web performance |
+| **Security** | Application security · how to read an AI research paper |
+
+</div>
 
 ---
 
@@ -197,13 +305,16 @@ Contributing to applied machine learning projects spanning classification and re
 
 | Recognition | Details |
 |---|---|
-| 🎓 **IIT Madras Admission** | Computer Science program |
-| 📊 **84% Accuracy — Titanic Prediction** | Random Forest, AUC 0.87, F1-optimized via GridSearchCV |
-| 🌸 **96.67% Accuracy — Iris Classification** | Best-in-class SVM (RBF kernel) performance |
-| 💳 **CreditSense AI — Architecture Design** | Multi-service credit risk platform (ML + Spring Boot + Kafka) |
-| 💻 **Structured ML Portfolio** | Multi-project GitHub repository with production-style documentation |
+| 🥇 **4× HackerRank Certified** | Software Engineer (Intern) role · SQL (Advanced) · Java (Basic) · React (Basic) |
+| 📈 **96.67% Accuracy — Iris Classification** | RBF-kernel SVM + StandardScaler, CV 96.67% ± 1.67% |
+| 📉 **R² 0.897 — Sales Prediction** | Multiple linear regression, RMSE 1.71 on the test split |
+| 🌾 **Live Client Website Shipped** | Delight Agro Traders — designed, built, and deployed solo |
+| 🏗️ **Solo Full-Stack ERP** | 11 modules scoped against a formal 15-section SRS |
+| 📚 **25 Technical Articles** | ML, deep learning, CV, systems, and security |
 
 </div>
+
+> Every metric above is reproducible from a saved model artifact. I deliberately don't publish numbers I can't verify.
 
 ---
 
@@ -214,7 +325,6 @@ Contributing to applied machine learning projects spanning classification and re
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e)](https://leetcode.com/Zishaniitm)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e)](https://auth.geeksforgeeks.org/user/Zishaniitm)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e)](https://www.hackerrank.com/Zishaniitm)
-
 
 </div>
 
@@ -241,7 +351,6 @@ Contributing to applied machine learning projects spanning classification and re
 
 </div>
 
-
 ---
 
 ## 🐍 Contribution Snake
@@ -258,22 +367,23 @@ Contributing to applied machine learning projects spanning classification and re
 
 ```yaml
 current_focus:
-  learning:
-    - Advanced ML — gradient boosting and model interpretability (SHAP)
-    - Java concurrency and Spring Boot for backend systems
-    - Apache Kafka for real-time data pipelines
-
   building:
-    - CreditSense AI — credit risk & fraud detection platform (in progress)
-    - Structured ML project portfolio (Codsoft internship series)
+    - UniCampus ERP — full-stack college ERP (11 modules, 32-week SRS)
+    - CreditSense AI — explanation and evaluation write-up
+    - This portfolio — Next.js 15 engineering showcase
+
+  learning:
+    - Advanced ML — gradient boosting and model interpretability
+    - System design for scale and failure
+    - Java and Spring Boot for backend systems
 
   exploring:
-    - Real-time streaming architectures (Kafka + Redis)
-    - Model explainability techniques for production ML systems
+    - Deep learning, LLMs, and production ML systems
+    - Agentic AI and on-device inference (researching and writing)
 
   open_to:
-    - Machine Learning Engineer / Data Scientist internships
-    - Backend / Full Stack Developer roles
+    - ML Engineer / Data Scientist internships
+    - Software Engineer / Full-Stack roles
     - Collaborative open-source ML and systems projects
 ```
 
@@ -283,10 +393,10 @@ current_focus:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d17)](mailto:admadzishan1713@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d17)](mailto:zishan.ahmad.contact@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d17)](https://www.linkedin.com/in/zishan-ahmad-155b24239/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d17)](https://github.com/Zishaniitm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d17)](https://zishan-portfolio-eight.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d17)](https://zishann.vercel.app/)
 
 </div>
 
